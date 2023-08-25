@@ -5,4 +5,4 @@
 }}
 
 select * from 
-{{ source('globarmart', 'orders') }}
+{{ source('globalmart', 'orders') }}

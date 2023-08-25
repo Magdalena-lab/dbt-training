@@ -3,9 +3,11 @@ version: 2
 sources:
   - name: globalmart
     database: raw
-    schema: globarmart
+    schema: globalmart
     tables:
       - name: customer
       - name: orders
       - name: product
+         
+
           
